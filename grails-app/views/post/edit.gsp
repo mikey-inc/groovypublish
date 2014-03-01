@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=utf-16" %>
 <html>
   <head>
-      <title>Manage Post</title>
+      <title>Manage ALL Posts</title>
   </head>
   <body>
   <h1>Edit your post</h1>
