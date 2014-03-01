@@ -4,7 +4,7 @@
       <title>Manage ALL Posts</title>
   </head>
   <body>
-  <h1>Edit your post</h1>
+  <h1>Edit this post</h1>
   <div id="validationerrors">
       <g:renderErrors bean="${post}"/>
   </div>
