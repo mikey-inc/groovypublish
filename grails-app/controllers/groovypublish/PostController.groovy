@@ -5,7 +5,7 @@ class PostController {
 	def defaultAction = 'list'
 
     def index = {
-        render("Hello cruel world")
+        render("Hello cruel cruel world")
     }
 	
 	def goodbye = {
