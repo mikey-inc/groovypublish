@@ -18,7 +18,7 @@
       <g:hiddenField name="id" value="${post.id}"/>
       <dl>
 		  <g:link controller="post" action="edit" id="${post.id}">
-		    Edit this post hhjghg
+		    Edit this post fjdhrienrkefdifndkf
 		  </g:link>
           <dt>Post Title:</dt>
           <dd>
